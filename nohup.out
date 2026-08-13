@@ -1,0 +1,4 @@
+/data/data/com.termux/files/usr/bin/python3: can't open file '/data/data/com.termux/files/home/your_script.py': [Errno 2] No such file or directory
+2026-08-06 20:51:23,312 (__init__.py:1160 MainThread) ERROR - TeleBot: "Infinity polling: polling exited"
+2026-08-06 20:51:23,312 (__init__.py:1162 MainThread) ERROR - TeleBot: "Break infinity polling"
+Bot is running perfectly...
